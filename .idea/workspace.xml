@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca64209-bf76-4fa1-853c-5500709e4b6f" name="Changes" comment="DButility class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/ChartViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/SceneChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/TableViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/assignment1/chart-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/assignment1/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/assignment1/table-view.fxml" afterDir="false" />
+    <list default="true" id="2ca64209-bf76-4fa1-853c-5500709e4b6f" name="Changes" comment="Added table and chart">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/assignment1/TableView.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1/DBCredentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/DBCredentials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1/ChartViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/ChartViewController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1/DBUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/DBUtility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1/carmodel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/carmodel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/assignment1/carmodelcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/carmodelcontroller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +33,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AbCrnbhA2Q6NxaBIH3lGNjY42A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -96,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655322750969</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added table and chart">
+      <created>1655351243417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655351243417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,8 +112,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="DButility class" />
-    <option name="LAST_COMMIT_MESSAGE" value="DButility class" />
+    <MESSAGE value="Added table and chart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added table and chart" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

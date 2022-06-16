@@ -20,6 +20,6 @@ public class ChartViewController implements Initializable {
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
-
+        barChart.getData().addAll(DBUtility.getnumberofcarswithinapricerange());
     }
 }
